@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guilherme-mgcm/)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusGCM&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGCM&layout=compact&theme=react)](https://github.com/MatheusGCM/MatheusGCM)
 
 ## Tecnologias que uso
 
@@ -26,5 +25,6 @@
 Último projeto: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGCM&repo=CompassFlix&theme=react)](https://github.com/MatheusGCM/CompassFlix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGCM&layout=compact&theme=react)](https://github.com/MatheusGCM/MatheusGCM)
 
 ##
