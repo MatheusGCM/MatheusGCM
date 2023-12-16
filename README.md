@@ -22,7 +22,7 @@
 
 Último projeto: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGCM&repo=CompassFlix&theme=react)](https://github.com/MatheusGCM/CompassFlix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGCM&repo=challenge-ignite-nodejs-02-daily-diet&theme=react)](https://github.com/MatheusGCM/challenge-ignite-nodejs-02-daily-diet)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGCM&layout=compact&theme=react)](https://github.com/MatheusGCM/MatheusGCM)
 
 ##
