@@ -1,28 +1,42 @@
-### 👋 <strong>Olá! Meu nome é Matheus Guilherme!</strong>
+<h2 align="left">Olá 👋! Meu nome é Matheus, sou um entusiasta do desenvolvimento frontend e também fullstack.</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-guilherme-mgcm/)
+###
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusGCM&show_icons=true&theme=react)
+<br clear="both">
 
-## Tecnologias que uso
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheusgcm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusgcm&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<div style="display: inline_block">
-  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="tw" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-<div>
+###
 
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+</div>
 
-<strong><i>Apaixonado pelo desenvolvimento Front-End... 🥰</i></strong>
+###
 
-Último projeto: 
+<br clear="both">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGCM&repo=challenge-ignite-nodejs-02-daily-diet&theme=react)](https://github.com/MatheusGCM/challenge-ignite-nodejs-02-daily-diet)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGCM&layout=compact&theme=react)](https://github.com/MatheusGCM/MatheusGCM)
+<img src="https://raw.githubusercontent.com/Matheusgcm/Matheusgcm/output/snake.svg" alt="Snake animation" />
 
-##
+###
