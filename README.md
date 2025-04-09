@@ -37,6 +37,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Matheusgcm/Matheusgcm/output/snake.svg" alt="Snake animation" />
+<!-- img src="https://raw.githubusercontent.com/Matheusgcm/Matheusgcm/output/snake.svg" alt="Snake animation" /> -->
+
 
 ###
